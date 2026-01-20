@@ -7,9 +7,10 @@ namespace DaveApi.Controllers
     public class WeatherForecastController : ControllerBase
     {
         private static readonly string[] Summaries =
-        [
-            "PRODUCTION", "PRODUCTION", "PRODUCTION", "PRODUCTION", "PRODUCTION", "PRODUCTION", "PRODUCTION", "PRODUCTION", "PRODUCTION", "PRODUCTION"
-        ];
+[
+ "TEST", "TEST", "TEST", "TEST", "TEST"
+];
+
 
         [HttpGet(Name = "GetWeatherForecast")]
         public IEnumerable<WeatherForecast> Get()
