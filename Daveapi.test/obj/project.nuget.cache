@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jSLweP6XSWY=",
+  "dgSpecHash": "DSoZgRGSIwo=",
   "success": true,
-  "projectFilePath": "C:\\Users\\davva\\source\\repos\\DaveApi\\Daveapi.test\\Daveapi.test.csproj",
+  "projectFilePath": "C:\\Users\\davva\\source\\repos\\DaveApi\\DaveApi.test\\DaveApi.test.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\davva\\.nuget\\packages\\coverlet.collector\\6.0.4\\coverlet.collector.6.0.4.nupkg.sha512",
     "C:\\Users\\davva\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.1\\microsoft.aspnetcore.openapi.10.0.1.nupkg.sha512",

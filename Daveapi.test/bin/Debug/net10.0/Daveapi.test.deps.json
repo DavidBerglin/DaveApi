@@ -6,14 +6,14 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v10.0": {
-      "Daveapi.test/1.0.0": {
+      "DaveApi.test/1.0.0": {
         "dependencies": {
           "DaveApi": "1.0.0",
           "Microsoft.NET.Test.Sdk": "17.14.1",
           "xunit": "2.9.3"
         },
         "runtime": {
-          "Daveapi.test.dll": {}
+          "DaveApi.test.dll": {}
         }
       },
       "Microsoft.AspNetCore.OpenApi/10.0.1": {
@@ -364,7 +364,7 @@
     }
   },
   "libraries": {
-    "Daveapi.test/1.0.0": {
+    "DaveApi.test/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
