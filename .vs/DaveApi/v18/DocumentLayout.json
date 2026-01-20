@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\davva\\source\\repos\\DaveApi\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{1793A0ED-DE05-4DE0-BF47-89B85F08FC78}|DaveApi\\DaveApi.csproj|c:\\users\\davva\\source\\repos\\daveapi\\daveapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1793A0ED-DE05-4DE0-BF47-89B85F08FC78}|DaveApi\\DaveApi.csproj|solutionrelative:daveapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{EA34460D-A10D-43C6-98D8-7A44FD1CFADD}|DaveApi.test\\DaveApi.test.csproj|c:\\users\\davva\\source\\repos\\daveapi\\daveapi.test\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EA34460D-A10D-43C6-98D8-7A44FD1CFADD}|DaveApi.test\\DaveApi.test.csproj|solutionrelative:daveapi.test\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -19,6 +23,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\davva\\source\\repos\\DaveApi\\DaveApi\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "DaveApi\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\davva\\source\\repos\\DaveApi\\DaveApi\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "DaveApi\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T11:33:27.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "UnitTest1.cs",
               "DocumentMoniker": "C:\\Users\\davva\\source\\repos\\DaveApi\\Daveapi.test\\UnitTest1.cs",
               "RelativeDocumentMoniker": "Daveapi.test\\UnitTest1.cs",

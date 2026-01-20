@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\davva\\source\\repos\\DaveApi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1793A0ED-DE05-4DE0-BF47-89B85F08FC78}|DaveApi\\DaveApi.csproj|c:\\users\\davva\\source\\repos\\daveapi\\daveapi\\daveapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{1793A0ED-DE05-4DE0-BF47-89B85F08FC78}|DaveApi\\DaveApi.csproj|solutionrelative:daveapi\\daveapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{EA34460D-A10D-43C6-98D8-7A44FD1CFADD}|DaveApi.test\\DaveApi.test.csproj|c:\\users\\davva\\source\\repos\\daveapi\\daveapi.test\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA34460D-A10D-43C6-98D8-7A44FD1CFADD}|DaveApi.test\\DaveApi.test.csproj|solutionrelative:daveapi.test\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,14 +19,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "DaveApi",
-              "DocumentMoniker": "C:\\Users\\davva\\source\\repos\\DaveApi\\DaveApi\\DaveApi.csproj",
-              "RelativeDocumentMoniker": "DaveApi\\DaveApi.csproj",
-              "ToolTip": "C:\\Users\\davva\\source\\repos\\DaveApi\\DaveApi\\DaveApi.csproj",
-              "RelativeToolTip": "DaveApi\\DaveApi.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-01-20T11:17:06.529Z",
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\davva\\source\\repos\\DaveApi\\Daveapi.test\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "Daveapi.test\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\davva\\source\\repos\\DaveApi\\Daveapi.test\\UnitTest1.cs",
+              "RelativeToolTip": "Daveapi.test\\UnitTest1.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwC4AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T11:32:03.694Z",
               "EditorCaption": ""
             }
           ]
