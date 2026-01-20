@@ -10,7 +10,7 @@ on:
   workflow_dispatch:
 
 env:
-BUILD_CONFIGURATION: Release
+  BUILD_CONFIGURATION: Release
 
 
 jobs:
@@ -69,6 +69,7 @@ jobs:
           package: .
 
           
+
 
 
 
