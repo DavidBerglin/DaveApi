@@ -34,6 +34,19 @@ namespace Daveapi.test
             // Assert
             Assert.Equal(32, tempF);
         }
+        [Fact]
+        public void Temperature_ShouldAlwaysFail()
+        {
+            // Arrange
+            var forecast = new WeatherForecast
+            {
+                TemperatureC = 25
+            };
+
+            // Act & Assert
+            Assert.True(false, "Detta test är designat att faila!");
+        }
+
 
     }
 }
