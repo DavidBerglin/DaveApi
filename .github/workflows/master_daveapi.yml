@@ -9,6 +9,10 @@ on:
       - master
   workflow_dispatch:
 
+env:
+BUILD_CONFIGURATION: Release
+
+
 jobs:
   build:
     runs-on: windows-latest
@@ -65,4 +69,5 @@ jobs:
           package: .
 
           
+
 
