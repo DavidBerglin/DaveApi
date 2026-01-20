@@ -8,7 +8,7 @@ namespace DaveApi.Controllers
     {
         private static readonly string[] Summaries =
         [
-            "Freezing", "Bracing", "Chilly", "Cool", "Tok kallt", "Mördar värmen", "Balmy", "Hot", "Sweltering", "Scorching"
+            "PRODUCTION", "PRODUCTION", "PRODUCTION", "PRODUCTION", "PRODUCTION", "PRODUCTION", "PRODUCTION", "PRODUCTION", "PRODUCTION", "PRODUCTION"
         ];
 
         [HttpGet(Name = "GetWeatherForecast")]
@@ -22,5 +22,23 @@ namespace DaveApi.Controllers
             })
             .ToArray();
         }
+        [HttpGet("info")]
+        public IActionResult GetInfo()
+        {
+            var slotName = Environment.GetEnvironmentVariable("WEBSITE_SLOT_NAME") ?? "production";
+            var environment = Environment.GetEnvironmentVariable("ASPNETCORE_ENVIRONMENT") ?? "Unknown";
+
+            return Ok(new
+            {
+                Version = "1.0.0",
+                Branch = "main",
+                Slot = slotName,
+                Environment = environment,
+                Timestamp = DateTime.UtcNow,
+                Message = " PRODUCTION VERSION"
+            });
+        }
+
+
     }
 }
