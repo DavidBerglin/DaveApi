@@ -6,7 +6,7 @@ name: Build and deploy ASP.Net Core app to Azure Web App - daveapi
 on:
   push:
     branches:
-      - master
+      - testDEP
   workflow_dispatch:
 
 env:
