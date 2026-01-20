@@ -34,7 +34,7 @@ namespace Daveapi.test
             // Assert
             Assert.Equal(32, tempF);
         }
-        [Fact]
+       /* [Fact]
         public void Temperature_ShouldAlwaysFail()
         {
             // Arrange
@@ -47,7 +47,7 @@ namespace Daveapi.test
             Assert.True(false, "Detta test är designat att faila!");
         }
 
-
+        */
     }
 }
 
