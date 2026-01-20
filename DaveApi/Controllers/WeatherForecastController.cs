@@ -8,7 +8,7 @@ namespace DaveApi.Controllers
     {
         private static readonly string[] Summaries =
         [
-            "Freezing", "Bracing", "Chilly", "Cool", "Tok kallt", "Mördar värmen", "Balmy", "Hot", "Sweltering", "Scorching"
+            "PRODUCTION", "PRODUCTION", "PRODUCTION", "PRODUCTION", "PRODUCTION", "PRODUCTION", "PRODUCTION", "PRODUCTION", "PRODUCTION", "PRODUCTION"
         ];
 
         [HttpGet(Name = "GetWeatherForecast")]
